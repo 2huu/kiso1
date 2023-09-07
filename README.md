@@ -1,2 +1,3 @@
 # kiso1
-React-kiso1のリポジトリ
+#owner is ryoya
+#React-kiso1のリポジトリ
